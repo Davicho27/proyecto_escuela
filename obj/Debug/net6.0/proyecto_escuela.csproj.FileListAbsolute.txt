@@ -1,0 +1,15 @@
+D:\Developer\C#\practice\course\proyecto_escuela\bin\Debug\net6.0\proyecto_escuela.exe
+D:\Developer\C#\practice\course\proyecto_escuela\bin\Debug\net6.0\proyecto_escuela.deps.json
+D:\Developer\C#\practice\course\proyecto_escuela\bin\Debug\net6.0\proyecto_escuela.runtimeconfig.json
+D:\Developer\C#\practice\course\proyecto_escuela\bin\Debug\net6.0\proyecto_escuela.dll
+D:\Developer\C#\practice\course\proyecto_escuela\bin\Debug\net6.0\proyecto_escuela.pdb
+D:\Developer\C#\practice\course\proyecto_escuela\obj\Debug\net6.0\proyecto_escuela.csproj.AssemblyReference.cache
+D:\Developer\C#\practice\course\proyecto_escuela\obj\Debug\net6.0\proyecto_escuela.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer\C#\practice\course\proyecto_escuela\obj\Debug\net6.0\proyecto_escuela.AssemblyInfoInputs.cache
+D:\Developer\C#\practice\course\proyecto_escuela\obj\Debug\net6.0\proyecto_escuela.AssemblyInfo.cs
+D:\Developer\C#\practice\course\proyecto_escuela\obj\Debug\net6.0\proyecto_escuela.csproj.CoreCompileInputs.cache
+D:\Developer\C#\practice\course\proyecto_escuela\obj\Debug\net6.0\proyecto_escuela.dll
+D:\Developer\C#\practice\course\proyecto_escuela\obj\Debug\net6.0\refint\proyecto_escuela.dll
+D:\Developer\C#\practice\course\proyecto_escuela\obj\Debug\net6.0\proyecto_escuela.pdb
+D:\Developer\C#\practice\course\proyecto_escuela\obj\Debug\net6.0\proyecto_escuela.genruntimeconfig.cache
+D:\Developer\C#\practice\course\proyecto_escuela\obj\Debug\net6.0\ref\proyecto_escuela.dll
